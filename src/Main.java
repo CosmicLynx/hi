@@ -114,7 +114,6 @@ public class Main {
 
         String string = "Anna";
         System.out.println(isPalindrome(string));
-
     }
 
     public static void greeting(String name) {
